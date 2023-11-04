@@ -732,10 +732,10 @@ Run away
 
 じゃまっけえ
 ---------230
-The white symbol floats lightly in the air.
-Although it is an unusual sight, there is no ominous feeling.
-Moreover, this is the first time I have seen something 
-that makes people feel clean in this filthy abandoned building."
+The white symbol floats lightly in the air.Although it is an unusual sight, there is no ominous feeling.Moreover, this is the first time I have seen something that makes people feel clean in this filthy abandoned building."
+
+
+
 ---------231
 ──Plus, it's very similar to Araka's amulet.
 ---------232
@@ -743,8 +743,8 @@ Take the symbol
 ---------233
 Get out of here.
 ---------234
-You can't go any further.
-Otherwise ── you will never turn back
+You can't go any further.Otherwise ── you will never turn back
+
 ---------235
 Now go back to the first floor immediately──
 ---------236
@@ -753,26 +753,26 @@ Use this at the entrance of the building-
 ---------237
 Got Araka's amulet
 ---------238
-Araka's amulet is shining.
-It seems that you can go outside by pushing the door open."
+Araka's amulet is shining.It seems that you can go outside by pushing the door open."
+
 ---------239
 Are you going to leave here like this?
 ---------240
-Araka's magical tool is glowing.
-It seems that you can go outside by pushing the door open."
+Araka's magical tool is glowing.It seems that you can go outside by pushing the door open."
+
 ---------241
-Araka's gem is shining.
-It seems that you can go outside by pushing the door open."
+Araka's gem is shining.It seems that you can go outside by pushing the door open."
+
 ---------242
 Something is flashing in the dark.
 ---------243
-On closer inspection, something resembling a gem fell there.
-I'm afraid this is one of the rosary beads."
+On closer inspection, something resembling a gem fell there.I'm afraid this is one of the rosary beads."
+
 ---------244
 Touch the gem?
 ---------245
-There is electricity.
-You can go downstairs."
+There is electricity.You can go downstairs."
+
 ---------246
 ライトプラグインをオフにする
 ---------247
@@ -783,33 +783,33 @@ You can go downstairs."
 ＝会場が真っ暗になる
 ---------250
 ──Caution──
-Once you move on, you can't go back to the first half of the map again.
-Is there anything unfinished?"
+Once you move on, you can't go back to the first half of the map again.Is there anything unfinished?"
+
 ---------251
 Move
 ---------252
-Waiting in front of me is a bright and lively party venue.
-Everyone was laughing and laughing with smiles.
-It used to be an ordinary party venue that didn't make people feel a little disobedient."
+Waiting in front of me is a bright and lively party venue.Everyone was laughing and laughing with smiles.It used to be an ordinary party venue that didn't make people feel a little disobedient."
+
+
 ---------253
-If it is not in this horrible ruin.
-It's strange to think about it anyway.
-Do you want to use second sight to view-
--You think so."
+If it is not in this horrible ruin.It's strange to think about it anyway.Do you want to use second sight to view--You think so."
+
+
+
 ---------254
 ・ハエ取り
 ・ゴミ箱
 ・人型のシミ
 ・コインランドリー
 ---------255
-..... The vault has been opened.
-There's nothing in it
+..... The vault has been opened.There's nothing in it
+
 ---------256
-There is a vault.
-..... I don't want to touch it, let alone open it."
+There is a vault...... I don't want to touch it, let alone open it."
+
 ---------257
-The Vajra exquisitely made of sundries and waste materials.
-That's quite similar to the magical tool Araka used for work."
+The Vajra exquisitely made of sundries and waste materials.That's quite similar to the magical tool Araka used for work."
+
 ---------258
 Take it？
 ---------259
@@ -817,9 +817,8 @@ Take it？
 ---------260
 As soon as I touched the magicak tool, my mind flashed Araka's image.
 ---------261
-It must be true. This is what Harraca left behind.
-However, compared with the possessions in Harraca so far, there are few thoughts that can be read.
-There is a certain feeling that black fog blocks the line of sight."
+It must be true. This is what Harraca left behind.However, compared with the possessions in Harraca so far, there are few thoughts that can be read.There is a certain feeling that black fog blocks the line of sight."
+
 ---------262
 Although you are a little uneasy, you still put away that spell treasure.
 ---------263
@@ -827,20 +826,20 @@ Although you are a little uneasy, you still put away that spell treasure.
 ---------264
 思念表示があればイベントポイントそのものが光る
 ---------265
-This seems to be the door to the fourth floor. 
-No matter how you push or pull it, it won't move.
-It seems locked."
+This seems to be the door to the fourth floor. No matter how you push or pull it, it won't move.It seems locked."
+
+
 ---------266
-Insert the key obtained from the vault into the keyhole and the lock will be easily opened.
-Although the door was rusty, it opened easily.
-Just like luring people in
+Insert the key obtained from the vault into the keyhole and the lock will be easily opened.Although the door was rusty, it opened easily.Just like luring people in
+
+
 ---------267
-As soon as I leaned in the door, I didn't touch it yet, but the door opened.
-..... Is the power of Araka.
-Probably Araka wants me to go outside with this strength."
+As soon as I leaned in the door, I didn't touch it yet, but the door opened...... Is the power of Araka.Probably Araka wants me to go outside with this strength."
+
+
 ---------268
-I held the handle of the door, pushed open the rusty door 
-and stepped into the darkness in front of the open door."
+I held the handle of the door, pushed open the rusty door and stepped into the darkness in front of the open door."
+
 ---------269
 It's locked, but it seems to open.
 ---------270
@@ -852,8 +851,8 @@ Look back
 ---------273
 ※Do you want to watch the good ending tips?
 ---------274
-※In the horror paragraph, you can go to the Araka 
-paragraph if you meet the following conditions.
+※In the horror paragraph, you can go to the Araka paragraph if you meet the following conditions.
+
 ①Collect 7 Araka's relics
 ---------275
 When you get it, it will display green text
@@ -862,10 +861,10 @@ When you get it, it will display green text
 ---------277
 Free from Kara's deception
 ---------278
-※Investigating insignificant matters will result in Araka's humiliation, exposing its vulnerability. 
-Please carefully consider whether to proceed with the investigation.
-※By utilizing the option to skip frightening paragraphs, 
-these conditions can be easily bypassed.
+※Investigating insignificant matters will result in Araka's humiliation, exposing its vulnerability. Please carefully consider whether to proceed with the investigation.
+
+※By utilizing the option to skip frightening paragraphs,these conditions can be easily bypassed. 
+
 ---------279
 And, please beat last boss.
 ---------280
@@ -873,14 +872,14 @@ There, there is an abnormal air vortex.
 ---------281
 I also know that. That's, like, an amazing thing.
 ---------282
-A dull, dark sludge ridge covers the air-
-As if to paralyze the five senses."
+A dull, dark sludge ridge covers the air-As if to paralyze the five senses."
+
 ---------283
-Feet ... can't move forward. As if it were rooted in the ground, 
-it chattered and could not move."
+Feet ... can't move forward. As if it were rooted in the ground, it chattered and could not move."
+
 ---------284
-The air alone will make me forget how to breathe and beat my heart-
-Death-the word comes to mind."
+The air alone will make me forget how to breathe and beat my heart-Death-the word comes to mind."
+
 ---------285
 Suddenly, there was a strong impact from behind, which made me faint.
 ---------286
@@ -904,10 +903,10 @@ I am
 ---------294
 ❤ I can't
 ---------295
-※Once the unimportant things are investigated, Araka will be humiliated, 
-which will lead to its weakness. Please carefully consider whether to conduct an investigation.
-※If you use the function of skipping scary paragraphs, 
-these conditions will be easily opened."
+※Once the unimportant things are investigated, Araka will be humiliated, which will lead to its weakness. Please carefully consider whether to conduct an investigation.
+
+※If you use the function of skipping scary paragraphs, these conditions will be easily opened."
+
 ---------296
 Each floor of horror paragraph
 ---------297
@@ -999,50 +998,50 @@ wooo
 ---------340
 hum
 ---------341
-"Araka, are you okay? Can you still walk alone? 
-Haven't you given in yet?""
+"Araka, are you okay? Can you still walk alone? Haven't you given in yet?""
+
 ---------342
 "You didn't answer me. How heartless─"
 ---------343
 She drank the rancid semen mixed with aphrodisiac with a delicious face
 ---------344
-Once Araka is violated and unconscious, 
-she will be reborn in this room.
-It can be transferred to the exit of this room and all the floors that have been opened."
+Once Araka is violated and unconscious, she will be reborn in this room.It can be transferred to the exit of this room and all the floors that have been opened."
+
+
 ---------345
-Once you leave this room, you can't go back to 
-this room until you lose again. Please pay more attention."
+Once you leave this room, you can't go back to this room until you lose again. Please pay more attention."
+
 ---------346
-Bt the way！ After the weak Araka was defeated, 
-I found my way to the next floor
+Bt the way！ After the weak Araka was defeated, I found my way to the next floor
+
 ---------347
 Although I can take you there, what should I do?
 ---------348
-The third floor is open.
-From the exit of this map and the elevators of various maps, 
-you can go to the third floor at any time."
+The third floor is open.From the exit of this map and the elevators of various maps, you can go to the third floor at any time."
+
+
 ---------349
 Go to the next floor
 ---------350
 Go to other floors
 ---------351
-Ah, yes! When I take Araka out, 
-   let's find a way to the next floor first
+Ah, yes! When I take Araka out,    let's find a way to the next floor first
+
 ---------352
 If you want to go, I can take you here
 ---------353
-The fourth floor is open.
-From the exit of this map and the elevators of various maps, 
-you can go to the fourth floor at any time."
+The fourth floor is open.From the exit of this map and the elevators of various maps, you can go to the fourth floor at any time."
+
+
 ---------354
 Let's find the way to the next floor first
 ---------355
-The fifth floor is open.
-From the exit of this map and the elevators of various maps, 
-you can go to the fifth floor at any time."
+The fifth floor is open.From the exit of this map and the elevators of various maps, you can go to the fifth floor at any time."
+
+
 ---------356
-I feel an unprecedented danger.
-You are weakening, so be careful
+I feel an unprecedented danger.You are weakening, so be careful
+
 ---------357
 "Aren't you going to nurse?"
 ---------358
@@ -1050,35 +1049,34 @@ You are weakening, so be careful
 ---------359
 ！"
 ---------360
-"Because, those are Araka's babies, right?
-You haven't forgotten the pain of you gave birth, have you?""
+"Because, those are Araka's babies, right?You haven't forgotten the pain of you gave birth, have you?""
+
 ---------361
 Now I want to investigate other things I can see than here
 ---------362
-I recognized it as a toilet from the sign, however
-The door was even darker and tightly closed in the dark building.
-My instinct told me, 『get out of here』
+I recognized it as a toilet from the sign, however The door was even darker and tightly closed in the dark building.My instinct told me, 『get out of here』
+
+
 ---------363
 However, I can't back down here."
 ---------364
 I made up my mind and stretched out my trembling hand――
 ---------365
-――I don't know why the door won't open, 
-but it makes me feel relieved"
+――I don't know why the door won't open, but it makes me feel relieved"
+
 ---------366
-Something fell there.
-――It's a hairpin. Brand-new. Fell on the edge of the toilet.
-It's a very common hairpin. However
-I know Araka likes to carry hairpins with her."
+Something fell there.――It's a hairpin. Brand-new. Fell on the edge of the toilet.It's a very common hairpin. However I know Araka likes to carry hairpins with her."
+
+
+
 ---------367
 Pick up
 ---------368
 Leave it alone
 ---------369
-Generally speaking, this is a place 
-where you will never have a chance to go in your life.
-Despite some hesitation, I still reached out to there.
-At this moment, I noticed a strange sound inside.
+Generally speaking, this is a place where you will never have a chance to go in your life.Despite some hesitation, I still reached out to there.At this moment, I noticed a strange sound inside.
+
+
 ---------370
 "
 ---------371
@@ -1086,65 +1084,63 @@ Ahah
 ---------372
 ahah
 ---------373
-I have a bad feeling. I pricked up my ears 
-and put my head close to the door.
-It was like the cry of a cat and a mouse.
-But it's closer to the sound of noise."
+I have a bad feeling. I pricked up my ears and put my head close to the door.It was like the cry of a cat and a mouse.But it's closer to the sound of noise."
+
+
 ---------374
 "..... Ga ... Ah, ah ... Ga, ah ..."
 
 
 "
 ---------375
-When I noticed it, there was an ice cold seeping into my back.
-――That's, uh, the baby's cry.
-Besides, it's not just any baby. 
-Life is not full of light, but full of resentment and hatred."
+When I noticed it, there was an ice cold seeping into my back.――That's, uh, the baby's cry.Besides, it's not just any baby. Life is not full of light, but full of resentment and hatred."
+
+
+
 ---------376
-Although I know it's a baby's voice clearly,
-it's far from a baby's."
+Although I know it's a baby's voice clearly,it's far from a baby's."
+
 ---------377
-Because-no matter which newborn baby,
-it will make a crying sound.
-However, that thing is laughing.
-In a very harsh voice."
+Because-no matter which newborn baby,it will make a crying sound.However, that thing is laughing.In a very harsh voice."
+
+
+
 ---------378
-I slowly left the door
-so as not to let what was inside notice.
-No matter how thick-headed I am,
-I know that once I am found, I will die."
+I slowly left the door so as not to let what was inside notice.No matter how thick-headed I am,I know that once I am found, I will die."
+
+
 ---------379
-..... .. .. Unknown ... Baby,
-the voice that can only be described in this way, came out.
-There must be something in it.
-There must be something that can be a clue-"
+..... .. .. Unknown ... Baby,the voice that can only be described in this way, came out.There must be something in it.There must be something that can be a clue-"
+
+
+
 ---------380
 Go inside
 ---------381
 Never mind
 ---------382
-Okay, the moment I'm whispering.
-――The cry suddenly stopped."
+Okay, the moment I'm whispering.――The cry suddenly stopped."
+
 ---------383
-Eyes are flickering ―― fear stops the heart.
-Being discovered-only in this way,
-I feel the feelings from the other side."
+Eyes are flickering ―― fear stops the heart.Being discovered-only in this way,I feel the feelings from the other side."
+
+
 ---------384
 That's, very intense, pleasant.
 ---------385
 ―― Giggle.
 ---------386
-Hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee 
-Hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee 
-Hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee 
-Hee hee hee hee hee hee hee hee hee hee hee hee ――――"
+Hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee Hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee Hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee hee Hee hee hee hee hee hee hee hee hee hee hee hee ――――"
+
+
+
 ---------387
-――When consciousness gradually disappears.
-I heard an old woman's laughter."
+――When consciousness gradually disappears.I heard an old woman's laughter."
+
 ---------388
 ――NO.
-I shook my head and quietly left the door.
-If I'm found out, I'll be doomed."
+I shook my head and quietly left the door.If I'm found out, I'll be doomed."
+
 ---------389
 『You can't enter here』
 ---------390
@@ -1152,16 +1148,16 @@ That's all I need to know."
 ---------391
 Leave here
 ---------392
-"You can't go any further.
-Otherwise ── you will never turn back.""
+"You can't go any further.Otherwise ── you will never turn back.""
+
 ---------393
 "Now go back to the first floor immediately──"
 ---------394
-"Use this at the entrance of the building──
-──It's not too late
+"Use this at the entrance of the building────It's not too late
+
 ---------395
-There seems to be a clue to Araka here.
-It would be better to investigate again."
+There seems to be a clue to Araka here.It would be better to investigate again."
+
 ---------396
 Dark black pieces of meat fell on the ground
 ---------397
@@ -1177,9 +1173,9 @@ What is that
 ---------402
 There is something flashing in the terrible meat.
 ---------403
-What emerges from the meat is the once beautiful gem.
-Judging from the small hole in the bead, 
-it used to be used as a prayer beads."
+What emerges from the meat is the once beautiful gem.Judging from the small hole in the bead, it used to be used as a prayer beads."
+
+
 ---------404
 The moment I touched the gem, someone's memory came over.
 ---------405
@@ -1193,27 +1189,27 @@ Don't Look Back
 ---------409
 ！！"
 ---------410
-There is an old crate.
-Want to see what's inside?"
+There is an old crate.Want to see what's inside?"
+
 ---------411
 It's so terrible that my soul will fly away.
 ---------412
 There are a bunch of cockroaches, leeches and slugs crawling in the box.
 ---------413
-You in the center of the game screen.
-You are not realistic at all 
-in the retro dot matrix game screen."
+You in the center of the game screen.You are not realistic at all in the retro dot matrix game screen."
+
+
 ---------414
-The monsters in the game are all around you in the picture.
-And then-"
+The monsters in the game are all around you in the picture.And then-"
+
 ---------415
 You are dead.
 ---------416
 The picture of the old game is being played.
 ---------417
-This should be the door leading to the third floor,
-but no matter how I push or pull it, there is no response.
-Looks like I'm going to find another way to open the door."
+This should be the door leading to the third floor,but no matter how I push or pull it, there is no response.Looks like I'm going to find another way to open the door."
+
+
 ---------418
 I don't know when, just unlocked.
 It seems that I can go up
